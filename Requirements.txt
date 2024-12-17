@@ -1,0 +1,5 @@
+You will need an API key from https://openweathermap.org/api 
+
+The code is currently setup for the Current Weather Data API
+
+Create an account and obtain your API
