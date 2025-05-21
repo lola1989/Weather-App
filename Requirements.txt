@@ -3,3 +3,5 @@ You will need an API key from https://openweathermap.org/api
 The code is currently setup for the Current Weather Data API
 
 Create an account and obtain your API
+
+Add your API Key to the code: api_key = 'your_api_key'
